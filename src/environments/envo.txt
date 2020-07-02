@@ -1,0 +1,9 @@
+firebaseConfig : {
+    apiKey: "AIzaSyBjpn4KdGhYq8RRpdTAyPMEKHhHOjXL1Ys",
+    authDomain: "angular30-91f07.firebaseapp.com",
+    databaseURL: "https://angular30-91f07.firebaseio.com",
+    projectId: "angular30-91f07",
+    storageBucket: "angular30-91f07.appspot.com",
+    messagingSenderId: "422367144586",
+    appId: "1:422367144586:web:ca40d71130c9962e28db73"
+  },

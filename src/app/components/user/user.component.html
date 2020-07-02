@@ -1,0 +1,10 @@
+<div class="card mb-3 mt-4 horizontal-display bg-info text-white" style="width: 250px; height: 300px;">
+    <div class="d-flex justify-content-center align-items-center" style="width: 250px;">
+      <img [src]="user.picture" class="rounded-circle ml-4 border-red" height="150" width="150" style="margin-top: 30px;margin-right: 40px;" />
+    </div>
+    <div class="card-body" >
+      <h5 class="card-title">{{ user.name | uppercase }}</h5>
+      <p class="card-text">{{ user.bio }}</p>
+    </div>
+  </div>
+  
